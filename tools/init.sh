@@ -91,7 +91,7 @@ init_files() {
   # build assets
   npm i && npm run build
 
-  # track the CSS/JS output
+  # track the CSS/JS output in gitignore (adjust as needed)
   _sedi "/.*\/dist$/d;/^_app$/d" .gitignore
 }
 
