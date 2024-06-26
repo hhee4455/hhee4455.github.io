@@ -7,7 +7,7 @@ remote_theme: cotes2020/jekyll-theme-chirpy
 lang: ko-KR
 
 # 시간대 설정
-timezone: Asia/Seoul
+timezone:
 
 # 사이트 제목
 title: hhee4455 기술 블로그
@@ -70,10 +70,10 @@ pageviews:
 theme_mode: 
 
 # 미디어 자산의 CDN 엔드포인트
-cdn: "https://chirpy-img.netlify.app"
+cdn:
 
 # 사이드바 아바타
-avatar: "/assets/img/avatar.jpeg"
+avatar:
 
 # 소셜 미리보기 이미지
 social_preview_image: 
