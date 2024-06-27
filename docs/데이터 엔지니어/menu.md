@@ -1,11 +1,7 @@
 ---
-layout: default
-title: 페이지 제목
-parent: 상위 페이지 제목
-grand_parent: 상위-상위 페이지 제목 (필요한 경우)
-nav_order: 페이지 순서
-has_children: 자식 페이지 존재 여부 (true/false)
-has_toc: 목차 생성 여부 (true/false)
+layout : default
+title : Menu
+nav_order : 2
 ---
 
 # 페이지 제목
