@@ -1,6 +1,6 @@
 ---
 layout : default
-title : Menu2
+title : 백엔드
 nav_order : 3
 has_children : true
 permalink : /docs/menu2

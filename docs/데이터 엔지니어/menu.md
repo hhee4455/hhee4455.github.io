@@ -1,7 +1,9 @@
 ---
 layout : default
-title : Menu
+title : 데이터 엔지니어
 nav_order : 2
+has_children : true
+permalink : /docs/데이터 엔지니어
 ---
 
 # 페이지 제목
