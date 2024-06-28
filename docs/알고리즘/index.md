@@ -3,11 +3,11 @@ layout : default
 title : 알고리즘
 nav_order : 4
 has_children : true
-permalink : /docs/알고리즘
+permalink : /docs/CS
 ---
 
 
-# 알고리즘 공부 블로그
+# 알고리즘
 
 ## 소개
 

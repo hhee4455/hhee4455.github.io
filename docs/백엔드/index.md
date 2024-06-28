@@ -3,10 +3,10 @@ layout : default
 title : 백엔드
 nav_order : 3
 has_children : true
-permalink : /docs/백엔드
+permalink : /docs/BE
 ---
 
-# Django로 시작하는 백엔드 개발 블로그
+# 백엔드
 
 ## 소개
 
