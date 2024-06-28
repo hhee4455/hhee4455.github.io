@@ -1,9 +1,9 @@
 ---
 layout : default
-title : 백엔드
-nav_order : 3
+title : 알고리즘
+nav_order : 4
 has_children : true
-permalink : /docs/백엔드
+permalink : /docs/알고리즘
 ---
 
 
