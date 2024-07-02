@@ -2,10 +2,11 @@
 layout : default
 title : ETL
 nav_order : 1
-has_children : false
+has_children : true
 permalink : /docs/DE/DW/ETL
 parent : 데이터 웨어하우스
 ---
+
 # ETL (Extract, Transform, Load)
 
 ## 소개
