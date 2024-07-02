@@ -2,6 +2,7 @@
 layout : default
 title : ETL
 nav_order : 1
+has_children : false
 permalink : /docs/DE/DW/ETL
 parent : DW
 ---
