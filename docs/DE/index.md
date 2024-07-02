@@ -1,6 +1,6 @@
 ---
 layout : default
-title : 데이터 엔지니어
+title : DE
 nav_order : 2
 has_children : true
 permalink : /docs/DE
