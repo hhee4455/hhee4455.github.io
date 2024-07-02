@@ -3,7 +3,7 @@ layout: default
 title: 데이터 웨어하우스란?
 nav_order: 1
 has_children: false
-permalink: /docs/DE/DW/DW란?
+permalink: /docs/DE/DW/DW_basic
 parent: DW
 grand_parent: 데이터 엔지니어
 ---
