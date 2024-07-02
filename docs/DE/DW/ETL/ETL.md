@@ -3,7 +3,7 @@ layout : default
 title : ETL
 nav_order : 1
 permalink : /docs/DE/DW/ETL
-parent : DW
+parent : DE/DW
 ---
 # ETL (Extract, Transform, Load)
 
