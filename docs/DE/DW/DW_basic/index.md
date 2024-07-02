@@ -75,7 +75,8 @@ grand_parent: 데이터 엔지니어
    - **머신러닝 일반**: 데이터 과학과 머신러닝 모델에 대한 기본 이해
    - **A/B 테스트와 통계**: 실험 설계와 데이터 분석을 위한 통계적 방법론
 
-![Data Engineering Roadmap](/assets/images/roadmap.png)
+<img src="/assets/images/roadmap.png" alt="Data Engineering Roadmap" width="400"/>
+
 
 ### 데이터 분석가
 - 비즈니스 인텔리전스 책임
@@ -211,7 +212,7 @@ ELT는 데이터를 추출(Extract)하고, 적재(Load)한 후에 변환(Transfo
    - 비즈니스 사용자가 직접 ETL/ELT 파이프라인을 구성하고 관리할 수 있는 셀프서비스 도구 제공.
    - 예: Alteryx, Dataiku, Trifacta.
 
-![ETL Process](/assets/images/ETL_process.png)
+<img src="/assets/images/ETL_process.png" alt="ETL Process" width="400"/>
 
 ## 결론
 ETL과 ELT는 데이터 통합과 분석의 핵심 요소입니다. 각 기법의 장단점을 이해하고, 적절한 도구와 베스트 프랙티스를 적용함으로써 효율적인 데이터 파이프라인을 구축할 수 있습니다. 최신 트렌드와 기술을 활용하여 데이터 처리의 효율성과 신뢰성을 높이는 것이 중요합니다.
