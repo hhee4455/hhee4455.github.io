@@ -4,7 +4,7 @@ title : ETL
 nav_order : 1
 has_children : true
 permalink : /docs/DE/DW/ETL
-parent : DW
+parent : 데이터엔지니어/DW
 ---
 
 # ETL (Extract, Transform, Load)
