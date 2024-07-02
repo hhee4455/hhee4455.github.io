@@ -13,7 +13,6 @@ gh_edit_link: true
 gh_edit_link_text: "Edit this page on GitHub"
 gh_edit_repository: "https://github.com/hhee4455/hhee4455.github.io"
 
-
 search_enabled: true
 search:
   heading_level: 2
@@ -25,7 +24,8 @@ search:
   button: false
   focus_shortcut_key: 'k'
 
-
 color_scheme: dark
 
-
+collections:
+  docs:
+    output: true
