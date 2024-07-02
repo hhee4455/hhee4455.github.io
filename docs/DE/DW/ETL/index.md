@@ -5,6 +5,7 @@ nav_order: 1
 has_children: false
 permalink: /docs/DE/DW/ETL
 parent: DW
+grand_parent: 데이터 엔지니어
 ---
 
 # ETL (Extract, Transform, Load)
