@@ -1,9 +1,9 @@
 ---
-layout : default
-title : 데이터 엔지니어
-nav_order : 2
-has_children : true
-permalink : /docs/DE
+layout: default
+title: 데이터 엔지니어
+nav_order: 2
+has_children: true
+permalink: /docs/DE
 ---
 
 # 데이터 엔지니어링
