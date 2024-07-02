@@ -1,9 +1,9 @@
 ---
 layout : default
-title : 데이터 엔지니어
+title : ETL
 nav_order : 1
 has_children : false
-permalink : /docs/DE/ETL
+permalink : /docs/DE/DW/ETL
 ---
 # ETL (Extract, Transform, Load)
 
