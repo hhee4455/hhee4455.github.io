@@ -3,7 +3,7 @@ layout : default
 title : ETL
 nav_order : 1
 permalink : /docs/DE/DW/ETL
-parent : DW
+parent : 데이터 웨어하우스
 ---
 # ETL (Extract, Transform, Load)
 
