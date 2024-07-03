@@ -30,7 +30,7 @@ permalink: /docs/DE
 3. **프로젝트 개발**: 실제 프로젝트를 통해 데이터 엔지니어링을 실습해봅니다.
 4. **문제 해결**: 데이터 엔지니어링 과정에서 발생할 수 있는 문제를 해결하는 방법을 공유합니다.
 
-![ETL Process](/assets/images/DE/ETL_process.png)
+![ETL Process](/assets/images/DE/roadmap.png)
 
 ## 앞으로의 계획
 
