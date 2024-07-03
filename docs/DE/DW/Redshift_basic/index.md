@@ -141,8 +141,6 @@ AWS CloudWatch를 사용하여 리소스 사용량을 모니터링하고, 비용
 - **Google Colab에서 테이블 생성 후 COPY 명령 실행하기**
 - **S3, IAM Role 설정 및 지정**
 
-[Google Colab 노트북 링크](https://colab.research.google.com/drive/144fARzv8TDBqn7ovdP7P8ZdmlA6iwUX6?usp=sharing)
-
 ---
 
 ### 참고 문서
