@@ -7,6 +7,7 @@ permalink: /docs/DE/DW/ETL,ELT
 parent: DW
 grand_parent: 데이터 엔지니어
 date : 2024-07-04
+comments: true
 ---
 
 # ETL과 ELT의 심층 분석

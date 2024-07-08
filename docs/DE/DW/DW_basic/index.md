@@ -7,6 +7,7 @@ permalink: /docs/DE/DW/DW_basic
 parent: DW
 grand_parent: 데이터 엔지니어
 date : 2024-07-03
+comments: true
 ---
 
 # 데이터 웨어하우스란?

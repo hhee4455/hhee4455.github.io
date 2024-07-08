@@ -29,3 +29,11 @@ color_scheme: dark
 collections:
   docs:
     output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: default
+      comments: true
