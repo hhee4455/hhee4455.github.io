@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Redshift_basic
+title: Redshift
 nav_order: 3
 has_children: false
 permalink: /docs/DE/DW/Redshift_basic
