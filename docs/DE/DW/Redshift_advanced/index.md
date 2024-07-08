@@ -6,6 +6,7 @@ has_children: false
 permalink: /docs/DE/DW/Redshift_advanced
 parent: DW
 grand_parent: 데이터 엔지니어
+date : 2024-07-06
 ---
 
 # AWS Redshift: deep dive into aws redshift(예정)

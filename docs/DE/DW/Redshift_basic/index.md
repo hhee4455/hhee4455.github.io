@@ -6,6 +6,7 @@ has_children: false
 permalink: /docs/DE/DW/Redshift_basic
 parent: DW
 grand_parent: 데이터 엔지니어
+date : 2024-07-05
 ---
 
 # AWS Redshift: 소개 및 주요 기능

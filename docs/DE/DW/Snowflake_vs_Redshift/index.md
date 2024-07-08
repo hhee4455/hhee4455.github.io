@@ -6,6 +6,7 @@ has_children: false
 permalink: /docs/DE/DW/Snowflake_vs_Redshift
 parent: DW
 grand_parent: 데이터 엔지니어
+data : 2024-07-08
 ---
 
 # Snowflake 개요 및 Redshift와의 비교
