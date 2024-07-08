@@ -37,6 +37,3 @@ defaults:
     values:
       layout: default
       comments: true
-
-disqus:
-  shortname: 이승준
