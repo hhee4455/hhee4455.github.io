@@ -37,3 +37,6 @@ defaults:
     values:
       layout: default
       comments: true
+
+disqus:
+  shortname: hhee4455.github.io
