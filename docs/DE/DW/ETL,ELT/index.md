@@ -12,6 +12,8 @@ grand_parent: 데이터 엔지니어
 
 데이터 엔지니어링에서 ETL(Extract, Transform, Load)과 ELT(Extract, Load, Transform)는 데이터 처리와 통합의 핵심적인 방법론입니다. 이 문서에서는 데이터 웨어하우징, 데이터 레이크 및 빅데이터 분석에서 중요한 역할을 하는 ETL과 ELT의 개념, 프로세스, 도구, 그리고 장단점에 대해 자세히 설명합니다.
 
+---
+
 ## 1. ETL(Extract, Transform, Load)
 
 ### 개념
