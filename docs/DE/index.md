@@ -49,3 +49,12 @@ permalink: /docs/DE
 이 블로그를 통해 데이터 엔지니어링에 대해 함께 배우고 성장해 나가길 바랍니다. 궁금한 점이나 다루고 싶은 주제가 있다면 언제든지 댓글로 남겨주세요. 함께 공부하고 고민을 나누며 더 나은 데이터 엔지니어가 되어봅시다!
 
 감사합니다.
+
+<script src="https://utteranc.es/client.js"
+        repo="hhee4455/hhee4455.github.io"
+        issue-term="pathname"
+        label="comments"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>

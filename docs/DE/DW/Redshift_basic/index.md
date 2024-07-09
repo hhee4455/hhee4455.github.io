@@ -145,3 +145,12 @@ AWS CloudWatch를 사용하여 리소스 사용량을 모니터링하고, 비용
 - [AWS IAM Documentation](https://docs.aws.amazon.com/iam/)
 - [AWS S3 Documentation](https://docs.aws.amazon.com/s3/)
 
+
+<script src="https://utteranc.es/client.js"
+        repo="hhee4455/hhee4455.github.io"
+        issue-term="pathname"
+        label="comments"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>

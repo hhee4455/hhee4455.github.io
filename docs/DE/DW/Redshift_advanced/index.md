@@ -133,3 +133,12 @@ comments: true
 ### 비용 최적화 방법 (클러스터 크기 조정, 클러스터 일시 중지/재개)
 - 비용 절감을 위한 클러스터 관리 방법
 - 클러스터 크기 조정 및 일시 중지/재개 방법
+
+<script src="https://utteranc.es/client.js"
+        repo="hhee4455/hhee4455.github.io"
+        issue-term="pathname"
+        label="comments"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>

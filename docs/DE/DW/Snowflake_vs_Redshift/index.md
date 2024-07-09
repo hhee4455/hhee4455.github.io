@@ -106,3 +106,12 @@ comments: true
 
 ## 요약
 Snowflake는 가변 비용 모델, 컴퓨팅과 스토리지의 독립적 관리, 다양한 데이터 포맷 및 클라우드 통합 지원, 실시간 데이터 처리 기능 등에서 Redshift에 비해 더 유연하고 효율적인 솔루션을 제공합니다. 반면, Redshift는 AWS 생태계와의 긴밀한 통합과 배치 데이터 처리에 강점을 가지지만, 실시간 처리와 비용 관리 측면에서는 Snowflake에 비해 제한적입니다.
+
+<script src="https://utteranc.es/client.js"
+        repo="hhee4455/hhee4455.github.io"
+        issue-term="pathname"
+        label="comments"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>

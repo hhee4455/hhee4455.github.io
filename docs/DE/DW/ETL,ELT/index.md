@@ -112,3 +112,13 @@ ETL과 ELT는 데이터 엔지니어링에서 중요한 두 가지 방법론입�
 > - ETL과 ELT의 차이점에 대한 자세한 설명
 > - 데이터 웨어하우스와 데이터 레이크의 활용 방법
 > - 실리콘밸리 회사들의 데이터 스택 트렌드
+
+
+<script src="https://utteranc.es/client.js"
+        repo="hhee4455/hhee4455.github.io"
+        issue-term="pathname"
+        label="comments"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
