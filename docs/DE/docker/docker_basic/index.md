@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Docker 맛보기
+title: Docker란??
 nav_order: 1
 has_children: false
 permalink: /docs/DE/docker/docker_basic
@@ -10,7 +10,7 @@ date: 2024-07-09
 comments: true
 ---
 
-# Docker 맛보기
+# Docker란???
 
 ## Docker 소개
 Docker는 컨테이너 기반의 오픈 소스 가상화 플랫폼으로, 애플리케이션을 빠르고 효율적으로 개발, 배포, 실행할 수 있도록 도와줍니다. 이 문서는 Docker의 주요 기능, 설치 과정, 초기 설정 및 컨테이너화된 애플리케이션 배포에 대한 개요를 제공합니다.
