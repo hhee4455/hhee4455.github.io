@@ -66,3 +66,13 @@ permalink: /
 **블로그 작성자: 이승준**
 
 ---
+
+
+<script src="https://utteranc.es/client.js"
+        repo="hhee4455/hhee4455.github.io"
+        issue-term="pathname"
+        label="comments"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
