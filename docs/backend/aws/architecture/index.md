@@ -62,7 +62,8 @@ Amazon Athena는 Amazon S3에 저장된 데이터를 SQL을 사용해 분석할 
 - **애드혹 쿼리**: 빠르게 질문을 던지고 답을 얻을 수 있는 비정형 데이터 분석에 사용됩니다.
 
 ### 사용 예시
-``` -- S3 버킷에 저장된 데이터를 쿼리하는 예시
+``` 
+-- S3 버킷에 저장된 데이터를 쿼리하는 예시
 SELECT *
 FROM "my_database"."my_table"
 WHERE year = 2023 AND month = '07' 
