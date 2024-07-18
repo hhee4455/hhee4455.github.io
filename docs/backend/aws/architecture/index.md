@@ -5,7 +5,7 @@ nav_order: 1
 has_children: false
 permalink: /docs/backend/aws/architecture
 parent: aws
-grand_parent: backend
+grand_parent: 백엔드
 date : 2024-07-18
 comments: true
 ---
