@@ -3,7 +3,7 @@ layout: default
 title: aws 서비스
 nav_order: 1
 has_children: false
-permalink: /docs/BE/aws/architecture
+permalink: /docs/backend/aws/architecture
 parent: aws
 grand_parent: backend
 date : 2024-07-18
