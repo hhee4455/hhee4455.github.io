@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ec2안에서 externally-managed-environment 에러
-nav_order: 1
+nav_order: 2
 has_children: false
 permalink: /docs/DE/airflow/airflow_ec2_setting
 parent: airflow
