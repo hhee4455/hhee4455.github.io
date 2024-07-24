@@ -19,3 +19,11 @@ sudo rm /usr/lib/python3.11/EXTERNALLY-MANAGED
 ```
 -- 해결 완료!
 
+<script src="https://utteranc.es/client.js"
+        repo="hhee4455/hhee4455.github.io"
+        issue-term="pathname"
+        label="comments"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
