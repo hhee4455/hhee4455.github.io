@@ -103,10 +103,6 @@ print(response['JobRunId'])
 ```
 
 
-## 결론
-이 블로그에서는 AWS의 세 가지 주요 서비스인 ElastiCache, Athena, Glue에 대해 알아보았습니다. 각 서비스는 데이터 엔지니어링 파이프라인의 중요한 부분을 담당하며, 다양한 데이터 처리 및 분석 요구사항을 효율적으로 해결할 수 있습니다. 각 서비스의 기능과 사용 사례를 잘 이해하고 활용하면, 데이터 엔지니어링 작업을 크게 효율화할 수 있습니다.
-
-
 <script src="https://utteranc.es/client.js"
         repo="hhee4455/hhee4455.github.io"
         issue-term="pathname"
