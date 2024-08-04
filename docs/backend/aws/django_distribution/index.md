@@ -53,3 +53,11 @@ Gunicorn(Green Unicorn)은 Python WSGI HTTP 서버입니다. uWSGI와 마찬가�
 - **Nginx + uWSGI**: 고성능 및 고유연성을 필요로 하는 복잡한 환경에 적합합니다. 세부적인 설정과 최적화가 가능하며, 대규모 트래픽을 처리할 수 있습니다. 복잡한 배포와 확장성 요구사항에 유리합니다.
 - **Nginx + Gunicorn**: 설정이 간단하고 직관적이면서도 충분한 성능을 제공하는 환경에 적합합니다. 빠른 배포와 유지보수가 중요한 경우에 유리합니다. 대부분의 일반적인 사용 사례에서 효율적으로 작동합니다.
 
+<script src="https://utteranc.es/client.js"
+        repo="hhee4455/hhee4455.github.io"
+        issue-term="pathname"
+        label="comments"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
